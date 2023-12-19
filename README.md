@@ -6,5 +6,7 @@ The dataset is between 7/1/2018 and 7/1/2023.
 
 FuturePrediction.ipynb used combined data between 01/01/2023 and 12/15/2023 and applied feature engineering of 20 and 50-day moving averages and 20-day exponential moving averages. The model predicts prices from 10/23/23 and 12/14/2023.
 
+FuturePrediction_L1L2.ipynb used combined data between 01/01/2023 and 12/15/2023 and applied feature engineering of 20 and 50-day moving averages and 20-day exponential moving averages. It also Implements L1 and L2 regularization and Early Stopping.
+The model predicts prices from 10/23/23 and 12/14/2023.
 
 
